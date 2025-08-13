@@ -1,0 +1,3 @@
+num = input("Enter your number.\n")
+dig = len(num)
+print("The number of digits in your number is,",dig,".")
